@@ -1,0 +1,2 @@
+# Pairs-Trading
+Pairs trading is a statistical arbitrage strategy.  The strategy is to simultaneously take a long position and a short position on a pair of stocks that are cointegrated in the past but have sufficient spread between them on the day of trading.This is based on the assumption that the spread between them is mean-reverting.  The weights for each leg of the pair (hedge ratio) is estimated using a statistical method.  
